@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    background: rgb(0, 255, 229);
+    padding: 8px;
+}
+
+.navbar a {
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.card-container {
+    display: inline-flex;
+    padding: 20px;
+}
+
+.card {
+    border: 1px solid #a60f0f;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.card img {
+    height: 350px;
+    width: 100%;
+}
+
+
+button {
+    padding: 10px;
+}
+
+
+.submit {
+    background: red;
+    color: white;
+    border: none;
+    padding: 8px;
+    margin: 10px;
+}
+
+
+table {
+    width: 90%;
+    margin: 10px;
+}
+
+table, th, td {
+    border: 1px solid rgb(11, 1, 1);
+    padding: 8px;
+}
+
+
+footer {
+    background: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
